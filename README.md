@@ -23,6 +23,6 @@ A search book engine that when loaded:
 # Technologies
 
 # Images
-![1](../1.png)
-![2](../2.png)
-![3](../3.png)
+![1](./client/src/assets/1.png)
+![2](./client/src/assets/2.png)
+![3](./client/src/assets/3.png)
