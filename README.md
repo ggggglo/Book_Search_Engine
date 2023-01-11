@@ -1,5 +1,5 @@
 # Book Search Engine 
-- Refactored fully functioning Google Books API search engine built with a RESTful API, to be a GraphQL API built with Apollo Server.
+- Refactored a fully functioning Google Books API search engine built with a RESTful API, to be a GraphQL API built with Apollo Server.
 
 # Objectives
 A search book engine that when loaded:
